@@ -11,7 +11,7 @@ and complete the first three tasks before following with the
 tutorial below.
 In    d    this tutorial you're going to learn:
 ff
-- How to install/configure git
+- fff to install/configure git
 - Git basics (diffs, commits, etc.)
 - Basic git commands on the command-line
 - How to edit files in a text editor
